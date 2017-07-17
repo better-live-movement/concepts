@@ -1,0 +1,7 @@
+#+TITLE: Pi Control Documentation
+* Install
+  general install instructions
+** Options
+  available options during installation
+* Usage
+general usage
