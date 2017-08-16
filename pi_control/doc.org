@@ -3,5 +3,7 @@
   general install instructions
 ** Options
   available options during installation
+  - Wiring Pi
+  - xmpp
 * Usage
 general usage
