@@ -4,8 +4,11 @@ left to right direction
 
 actor user
 
-rectangle pi-controll {
-  user --> (foo hinzufuegen)
-  user --> (foo ausfueren)
+rectangle pi-control {
+  user --> (authenticate)
+  user --> (add command)
+  user --> (edit command)
+  user --> (execute command)
+  user --> (remove command)
 }
 @enduml
