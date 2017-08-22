@@ -1,4 +1,5 @@
 #+TITLE: Pi Control Documentation
+Pi-Control is a tool to execute commands on your Raspberry Pi remotely e.g. using the web-frontend.
 * Install
   general install instructions
 ** Options
