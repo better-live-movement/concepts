@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T21:16:48.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="YjASm2crhrQxKr06_rnI" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T22:56:28.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="VuLXhQaovZKEuXx_eByd" version="13.1.1" type="github">
   <diagram id="CHu45XtJOqBpzsB6C5ND" name="Page-1">
-    <mxGraphModel dx="2031" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CYfTwfHqTMPXeelAHlaz-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="CYfTwfHqTMPXeelAHlaz-2" value="Store Manager" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="CYfTwfHqTMPXeelAHlaz-2" value="Storage Manager" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="80" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CYfTwfHqTMPXeelAHlaz-3" value="Store Item" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" parent="1" vertex="1">
@@ -19,37 +19,37 @@
         <mxCell id="CYfTwfHqTMPXeelAHlaz-5" value="Expire List" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="87.25" y="240" width="105.5" height="16.88" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-2" value="Store Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-2" value="Store Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="327" y="80" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-3" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-3" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-6" value="Store Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-6" value="Expire List" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="607" y="80" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-8" value="Store Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-8" value="Add Product" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="47" y="600" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="319.5" y="560" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-10" value="Store Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-10" value="Add Store" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="326.5" y="600" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="600" y="560" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="FvmmlonfM_7MPkLlXJ-B-12" value="Store Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="FvmmlonfM_7MPkLlXJ-B-12" value="Items in Store" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="607" y="600" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
