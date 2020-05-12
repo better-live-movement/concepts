@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="290px" preserveAspectRatio="none" style="width:342px;height:290px;" version="1.1" viewBox="0 0 342 290" width="342px" zoomAndPan="magnify"><defs><filter height="300%" id="fbqka2uwawpzx" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[b5395546fc1b0c0e23e21bdc79e0092c]
+cluster Storage-Manager--><rect fill="#FFFFFF" filter="url(#fbqka2uwawpzx)" height="255" style="stroke: #000000; stroke-width: 1.5;" width="251" x="80" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="140" x="135.5" y="38.9951">Storage-Manager</text><ellipse cx="205.5368" cy="78.8074" fill="#FEFECE" filter="url(#fbqka2uwawpzx)" rx="87.0368" ry="19.8074" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="147" x="132.0368" y="83.4558">Add Item to Storage</text><ellipse cx="205.5935" cy="158.8187" fill="#FEFECE" filter="url(#fbqka2uwawpzx)" rx="109.5935" ry="24.3187" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="197" x="107.0935" y="163.4671">Remove Item from Storage</text><ellipse cx="205.5673" cy="241.2135" fill="#FEFECE" filter="url(#fbqka2uwawpzx)" rx="99.0673" ry="22.2135" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="174" x="118.5673" y="245.8619">check expiring products</text><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="21" cy="128" fill="#FEFECE" filter="url(#fbqka2uwawpzx)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M21,136 L21,163 M8,144 L34,144 M21,163 L8,178 M21,163 L34,178 " fill="none" filter="url(#fbqka2uwawpzx)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="30" x="6" y="196.4951">user</text><!--MD5=[57e01bb0a5618abe677818a60a38d95d]
+link user to Add Item to Storage--><path d="M36.1061,144.337 C45.5183,135.309 58.589,124.136 72,117 C91.1673,106.802 113.391,99.059 134.097,93.312 " fill="none" id="user-&gt;Add Item to Storage" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="139.045,91.969,129.3114,90.4665,134.2196,93.2789,131.4073,98.1871,139.045,91.969" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6a1539fd9f6069fb4308459b79cb939b]
+link user to Remove Item from Storage--><path d="M36.0174,159 C48.7434,159 68.8309,159 90.7671,159 " fill="none" id="user-&gt;Remove Item from Storage" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="95.7735,159,86.7735,155,90.7735,159,86.7735,163,95.7735,159" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a321ed9c3fe5ce8e05d2f3f25ae29a8e]
+link user to check expiring products--><path d="M36.1401,173.599 C45.5659,182.603 58.6389,193.771 72,201 C89.8269,210.6447 110.291,218.2764 129.72,224.1745 " fill="none" id="user-&gt;check expiring products" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="134.635,225.6368,127.1492,219.2366,129.8426,224.2111,124.8681,226.9045,134.635,225.6368" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fefc17418cfde92d6048a6bed45ba0f6]
+@startuml
+skinparam packageStyle rectangle
+left to right direction
+
+actor user
+
+rectangle Storage-Manager {
+  user - -> (Add Item to Storage)
+  user - -> (Remove Item from Storage)
+  user - -> (check expiring products)
+@enduml
+
+PlantUML version 1.2020.09(Sun May 10 10:51:06 UTC 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 14.0.1+7
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

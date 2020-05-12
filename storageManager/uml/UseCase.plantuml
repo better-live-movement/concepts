@@ -1,0 +1,11 @@
+@startuml
+skinparam packageStyle rectangle
+left to right direction
+
+actor user
+
+rectangle Storage-Manager {
+  user --> (Add Item to Storage)
+  user --> (Remove Item from Storage)
+  user --> (check expiring products)
+@enduml
