@@ -8,4 +8,6 @@ rectangle Storage-Manager {
   user --> (Add Item to Storage)
   user --> (Remove Item from Storage)
   user --> (check expiring products)
+  user --> (check how long the stock lasts for the community of needs)
+  user --> (invite people to own community of needs)
 @enduml
